@@ -1,4 +1,4 @@
-# Discord-Rpc-Maker
+# Discord-Rpc-Maker | Please leave a STAR
 
 ・ Simple Rpc Maker
 
