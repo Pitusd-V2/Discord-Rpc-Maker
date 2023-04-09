@@ -35,7 +35,7 @@ rpc.connect()
 
 
 rpc.update(state= 'by Pitusd',
-           details= 'Community/Fazione',
+           details= '',
            large_image= '',
            large_text= '',
            small_image= '',
