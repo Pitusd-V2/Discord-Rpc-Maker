@@ -11,5 +11,3 @@
 **Remember to activate the following checkbox to make rpc work**
 
 ```show your activity as a status message```
-
-![Result](https://user-images.githubusercontent.com/118129946/230720354-b15cd3ac-a1d1-41d6-adee-178e499e5730.png)
