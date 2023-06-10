@@ -6,7 +6,7 @@
 
 ・ SO IMPORTANT! the script must remain open if you close the cmd the activity will stop
 
-![RPC](https://user-images.githubusercontent.com/118129946/230720214-f9ea37ab-85a1-484e-972d-77fa2e4ded34.png)
+![Screenshot (228)](https://github.com/Pitusd-V2/Discord-Rpc-Maker/assets/118129946/2d00edd9-df5f-42b9-9125-9a3d9b31e915)
 
 **Remember to activate the following checkbox to make rpc work**
 
